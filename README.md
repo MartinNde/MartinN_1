@@ -37,3 +37,6 @@ This is to obtain a perspective of the data and see if all the information in th
 
 This is done using the two short and simple functions of info and describe as shown below:
 ![image](https://user-images.githubusercontent.com/117248670/199496402-5cd319a9-df78-4001-90df-f9eeb583a655.png)
+
+Checking the data for null values. Once that is completed the null values are then removed and the total amount of the data before the null value is then compared to the data after the null values have been removed. It should be small. False values total 20433 these are actuall values whereas cells without with null values total 207. These null values were included in one column, which when removed the number of columns were reduced to 9. 
+![image](https://user-images.githubusercontent.com/117248670/199499561-9fc82624-86ed-4778-9b3a-8a30483db622.png)
