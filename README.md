@@ -46,3 +46,8 @@ Once that is completed the null values are then removed and the total amount of 
 ## View the coloumns of the dataframe.
 The columns are then viewed again to ensure and the values counted. The table is then recalled again to see how these coloumns fit in it. x and y values are then defined and called which gives the two tables. The train data and test data are then printed. 
 ![image](https://user-images.githubusercontent.com/117248670/199502823-d1f98085-5c6a-45ec-8b23-2b5c76de035d.png)
+
+# Prediction
+The scaler is obtaine and defined for the model to be trained and fit the linear regression model using x_train through which the value of the houses are then predicted.
+
+![image](https://user-images.githubusercontent.com/117248670/199504919-6b76be5f-4f8e-4a9a-b089-948af6b8fda2.png)
