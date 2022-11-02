@@ -55,3 +55,6 @@ The scaler is obtaine and defined for the model to be trained and fit the linear
 ## Testing the dataset of errors.
 The dataset is then tested for errors. The error value is 0.00 meaning that there is no issue with the dataset. The fucntions used for testing the dataset is as follows:
 ![image](https://user-images.githubusercontent.com/117248670/199505895-234bb1a4-0254-46b4-b665-482b264e60e5.png)
+
+##Visualisation of the data.
+The data is then visualised using plotly.express and seaborn both imported as px and sns.
