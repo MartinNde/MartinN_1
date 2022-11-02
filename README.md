@@ -42,3 +42,7 @@ This is done using the two short and simple functions of info and describe as sh
 
 Once that is completed the null values are then removed and the total amount of the data before the null value is then compared to the data after the null values have been removed. It should be small. False values total 20433 these are actuall values whereas cells without with null values total 207. These null values were included in one column, which when removed the number of columns were reduced to 9. 
 ![image](https://user-images.githubusercontent.com/117248670/199499561-9fc82624-86ed-4778-9b3a-8a30483db622.png)
+
+## View the coloumns of the dataframe.
+The columns are then viewed again to ensure and the values counted. The table is then recalled again to see how these coloumns fit in it. x and y values are then defined and called which gives the two tables. The train data and test data are then printed. 
+![image](https://user-images.githubusercontent.com/117248670/199502823-d1f98085-5c6a-45ec-8b23-2b5c76de035d.png)
