@@ -57,4 +57,5 @@ The dataset is then tested for errors. The error value is 0.00 meaning that ther
 ![image](https://user-images.githubusercontent.com/117248670/199505895-234bb1a4-0254-46b4-b665-482b264e60e5.png)
 
 ##Visualisation of the data.
-The data is then visualised using plotly.express and seaborn both imported as px and sns.
+The data is then visualised using plotly.express and seaborn both imported as px and sns. This will enable the exploration of the data using chats.
+![image](https://user-images.githubusercontent.com/117248670/199507837-3d9dd4c4-ddef-4326-ab67-bfadb15bc642.png)
