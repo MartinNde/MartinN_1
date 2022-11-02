@@ -32,3 +32,8 @@ The dataset is now impported into the model and viewed intothe dataframe.
 This is to obtain a perspective of the data and see if all the information in the data has been correctly included.
 
 ![image](https://user-images.githubusercontent.com/117248670/199495019-b4dd5b81-b8e7-4054-8ab8-c6f68ae5125b.png)
+
+##viewing the information on the dataframe and also get the discription of the data.
+
+This is done using the two short and simple functions of info and describe as shown below:
+![image](https://user-images.githubusercontent.com/117248670/199496402-5cd319a9-df78-4001-90df-f9eeb583a655.png)
