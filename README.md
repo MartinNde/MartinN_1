@@ -66,3 +66,5 @@ The data is then visualised using plotly.express and seaborn both imported as px
 
 
 ![image](https://user-images.githubusercontent.com/117248670/199510595-43560c99-f21d-4952-a274-254c6a54ec89.png)
+
+![image](https://user-images.githubusercontent.com/117248670/199511221-697d6d0f-89f0-45b2-bd89-76715333e155.png)
