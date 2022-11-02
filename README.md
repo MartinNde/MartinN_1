@@ -63,7 +63,10 @@ The data is then visualised using plotly.express and seaborn both imported as px
 ##Establishing correlation in the dataset using a visual diagram.
 ![image](https://user-images.githubusercontent.com/117248670/199509374-3589a93a-4076-47a9-af88-aed131ca24f9.png)
 
+##GUI
+This is design in such a way that the user will either press a button or ether a value or a string say for example the age of the house and the location and it will predict the value of the house. As shown in the table below, the user will input the information which is the processed in the sysem and an output is then delivered as a result.(https://www.cs.uml.edu/ecg/index.php/OrganizationProgrammingLanguagesFall2008/Scheme-and-GUI-BoxAndPointerDiagrams) GUI diagram.
 
+![image](https://user-images.githubusercontent.com/117248670/199517890-f66eb6ab-8777-4589-aae2-f9fb85a6339c.png)
 
 ![image](https://user-images.githubusercontent.com/117248670/199510595-43560c99-f21d-4952-a274-254c6a54ec89.png)
 
