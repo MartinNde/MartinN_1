@@ -51,3 +51,7 @@ The columns are then viewed again to ensure and the values counted. The table is
 The scaler is obtaine and defined for the model to be trained and fit the linear regression model using x_train through which the value of the houses are then predicted.
 
 ![image](https://user-images.githubusercontent.com/117248670/199504919-6b76be5f-4f8e-4a9a-b089-948af6b8fda2.png)
+
+## Testing the dataset of errors.
+The dataset is then tested for errors. The error value is 0.00 meaning that there is no issue with the dataset. The fucntions used for testing the dataset is as follows:
+![image](https://user-images.githubusercontent.com/117248670/199505895-234bb1a4-0254-46b4-b665-482b264e60e5.png)
