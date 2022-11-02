@@ -63,3 +63,6 @@ The data is then visualised using plotly.express and seaborn both imported as px
 ##Establishing correlation in the dataset using a visual diagram.
 ![image](https://user-images.githubusercontent.com/117248670/199509374-3589a93a-4076-47a9-af88-aed131ca24f9.png)
 
+
+
+![image](https://user-images.githubusercontent.com/117248670/199510595-43560c99-f21d-4952-a274-254c6a54ec89.png)
