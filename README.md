@@ -4,6 +4,12 @@ California Housing Prices
 
 [### Project Data Science Predicting Housing Prices : Project overview](https://github.com/MartinNde/MartinN_1)
 
+##Design of flowchart of the process.
+
+The process begins with the search of the right dataset that will answer the questions.Three options are available in mind,
+which are either to use a decision tree or linear regression. Also to decide on whether a GUI will be feasible for the interface.
+It is decided that the decision tree will not give the appropriate result so linear regression is done and the GUI is design to present the result.
+![image](https://user-images.githubusercontent.com/117248670/199522626-0ed0875c-1396-4ccb-a49b-b25ecacc06d4.png)
 
 Predict the housing prices of California using Linear Regression Model. 
 The dataset which was taken from Kraggle(https://www.kaggle.com/code/shibumohapatra/linear-regression-and-rmse). 
